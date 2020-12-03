@@ -1,0 +1,11 @@
+.title {
+  font-family: "emoji";
+  font-size: "53px";
+  color: white;
+}
+.red {
+  border-radius: 2px;
+  border: 1px solid white;
+  border-style: dashed;
+  padding: 10px;
+}
